@@ -1,4 +1,4 @@
-# 
+# Seguro AI Job Application Bot scripts. Com reconhecimento de imagens e modelos de aprendizado profundo — otimizado para máximo desempenho.
 
 
 
